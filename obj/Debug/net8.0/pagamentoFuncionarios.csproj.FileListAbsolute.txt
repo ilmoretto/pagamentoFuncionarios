@@ -1,0 +1,14 @@
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\bin\Debug\net8.0\pagamentoFuncionarios.exe
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\bin\Debug\net8.0\pagamentoFuncionarios.deps.json
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\bin\Debug\net8.0\pagamentoFuncionarios.runtimeconfig.json
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\bin\Debug\net8.0\pagamentoFuncionarios.dll
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\bin\Debug\net8.0\pagamentoFuncionarios.pdb
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\obj\Debug\net8.0\pagamentoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\obj\Debug\net8.0\pagamentoFuncionarios.AssemblyInfoInputs.cache
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\obj\Debug\net8.0\pagamentoFuncionarios.AssemblyInfo.cs
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\obj\Debug\net8.0\pagamentoFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\obj\Debug\net8.0\pagamentoFuncionarios.dll
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\obj\Debug\net8.0\refint\pagamentoFuncionarios.dll
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\obj\Debug\net8.0\pagamentoFuncionarios.pdb
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\obj\Debug\net8.0\pagamentoFuncionarios.genruntimeconfig.cache
+C:\Users\moret\Documents\POO\EstudosExtras\pagamentoFuncionarios\obj\Debug\net8.0\ref\pagamentoFuncionarios.dll
