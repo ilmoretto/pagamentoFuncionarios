@@ -1,10 +1,35 @@
-﻿FuncionarioRegular funcionario = new FuncionarioRegular("João", "12345", "123.456.789-00");
-funcionario.CalcularSalario();
+﻿List<FuncionarioBase> funcionarios = new List<FuncionarioBase>();
+bool encerrarP = false;
+while (!encerrarP)
+{
+    Console.WriteLine("=======|Folha de Pagamento|=======");
+    Console.WriteLine("1 - Cadastrar");
+    Console.WriteLine("2 - Exibir");
+    Console.WriteLine("0 - Sair");
+    Console.Write("Selecione uma opção: ");
+    int opcMenu = int.Parse(Console.ReadLine()!);
 
-FuncionarioHorista funcionarioHorista = new FuncionarioHorista(44, 10, "Maria", "54321", "987.654.321-00");
-funcionarioHorista.CalcularSalario();
-Console.WriteLine($"Salário Horista: {funcionarioHorista.getSalario()}");
+    switch (opcMenu)
+    {
+        case 0:
+            encerrarP = true;
+            break;
+        case 1:
 
-FuncionarioComissionado funcionarioComissionado = new FuncionarioComissionado(10000, "Carlos", "67890", "456.789.123-00");
-funcionarioComissionado.CalcularSalario();
-Console.WriteLine($"Salário Comissionado: {funcionarioComissionado.getSalario()}");
+            break;
+
+        case 2:
+
+            break;
+
+
+
+        default:
+            Console.WriteLine("Opção inválida");
+            break;
+    }
+
+
+
+}
+

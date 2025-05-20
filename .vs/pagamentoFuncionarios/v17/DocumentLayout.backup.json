@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\moret\\Documents\\POO\\EstudosExtras\\pagamentoFuncionarios\\",
+  "WorkspaceRootPath": "C:\\Users\\2024102060006\\Documents\\POO\\pagamentoFuncionarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D308F4F-672B-4098-B551-FE3ADDE70721}|pagamentoFuncionarios.csproj|c:\\users\\moret\\documents\\poo\\estudosextras\\pagamentofuncionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D308F4F-672B-4098-B551-FE3ADDE70721}|pagamentoFuncionarios.csproj|c:\\users\\2024102060006\\documents\\poo\\pagamentofuncionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D308F4F-672B-4098-B551-FE3ADDE70721}|pagamentoFuncionarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D308F4F-672B-4098-B551-FE3ADDE70721}|pagamentoFuncionarios.csproj|c:\\users\\moret\\documents\\poo\\estudosextras\\pagamentofuncionarios\\funcionariobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D308F4F-672B-4098-B551-FE3ADDE70721}|pagamentoFuncionarios.csproj|solutionrelative:funcionariobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D308F4F-672B-4098-B551-FE3ADDE70721}|pagamentoFuncionarios.csproj|c:\\users\\moret\\documents\\poo\\estudosextras\\pagamentofuncionarios\\funcionariohorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D308F4F-672B-4098-B551-FE3ADDE70721}|pagamentoFuncionarios.csproj|solutionrelative:funcionariohorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D308F4F-672B-4098-B551-FE3ADDE70721}|pagamentoFuncionarios.csproj|c:\\users\\moret\\documents\\poo\\estudosextras\\pagamentofuncionarios\\funcionariocomissionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D308F4F-672B-4098-B551-FE3ADDE70721}|pagamentoFuncionarios.csproj|solutionrelative:funcionariocomissionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D308F4F-672B-4098-B551-FE3ADDE70721}|pagamentoFuncionarios.csproj|c:\\users\\moret\\documents\\poo\\estudosextras\\pagamentofuncionarios\\funcionarioregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D308F4F-672B-4098-B551-FE3ADDE70721}|pagamentoFuncionarios.csproj|solutionrelative:funcionarioregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,65 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\moret\\Documents\\POO\\EstudosExtras\\pagamentoFuncionarios\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060006\\Documents\\POO\\pagamentoFuncionarios\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\moret\\Documents\\POO\\EstudosExtras\\pagamentoFuncionarios\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\2024102060006\\Documents\\POO\\pagamentoFuncionarios\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T02:27:30.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FuncionarioRegular.cs",
-              "DocumentMoniker": "C:\\Users\\moret\\Documents\\POO\\EstudosExtras\\pagamentoFuncionarios\\FuncionarioRegular.cs",
-              "RelativeDocumentMoniker": "FuncionarioRegular.cs",
-              "ToolTip": "C:\\Users\\moret\\Documents\\POO\\EstudosExtras\\pagamentoFuncionarios\\FuncionarioRegular.cs",
-              "RelativeToolTip": "FuncionarioRegular.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T02:22:21.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FuncionarioComissionado.cs",
-              "DocumentMoniker": "C:\\Users\\moret\\Documents\\POO\\EstudosExtras\\pagamentoFuncionarios\\FuncionarioComissionado.cs",
-              "RelativeDocumentMoniker": "FuncionarioComissionado.cs",
-              "ToolTip": "C:\\Users\\moret\\Documents\\POO\\EstudosExtras\\pagamentoFuncionarios\\FuncionarioComissionado.cs",
-              "RelativeToolTip": "FuncionarioComissionado.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T01:57:42.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FuncionarioHorista.cs",
-              "DocumentMoniker": "C:\\Users\\moret\\Documents\\POO\\EstudosExtras\\pagamentoFuncionarios\\FuncionarioHorista.cs",
-              "RelativeDocumentMoniker": "FuncionarioHorista.cs",
-              "ToolTip": "C:\\Users\\moret\\Documents\\POO\\EstudosExtras\\pagamentoFuncionarios\\FuncionarioHorista.cs",
-              "RelativeToolTip": "FuncionarioHorista.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T01:38:49.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FuncionarioBase.cs",
-              "DocumentMoniker": "C:\\Users\\moret\\Documents\\POO\\EstudosExtras\\pagamentoFuncionarios\\FuncionarioBase.cs",
-              "RelativeDocumentMoniker": "FuncionarioBase.cs",
-              "ToolTip": "C:\\Users\\moret\\Documents\\POO\\EstudosExtras\\pagamentoFuncionarios\\FuncionarioBase.cs",
-              "RelativeToolTip": "FuncionarioBase.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T01:14:45.076Z",
+              "WhenOpened": "2025-05-19T23:40:54.968Z",
               "EditorCaption": ""
             }
           ]

@@ -29,7 +29,15 @@
         return _salario;
     }
     public void setCpf(string cpf) {
-        _cpf = cpf;
+        cpf = cpf.Replace("-", "").Replace(".", "");
+        if(cpf.Length == 11)
+        {
+            _cpf = cpf;
+        }
+        else
+        {
+            throw new Exception("CPF inválido!");
+        }
            
     }
 
